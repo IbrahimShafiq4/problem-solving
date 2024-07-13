@@ -22,8 +22,8 @@ Each problem file includes:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/problem-solving-js.git
-   cd problem-solving-js
+   git clone https://github.com/IbrahimShafiq4/problem-solving.git
+   cd problem-solving
    ```
 
 2. **Explore the Problems:**
