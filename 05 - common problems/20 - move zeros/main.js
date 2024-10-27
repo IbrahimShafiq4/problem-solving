@@ -18,12 +18,3 @@ function moveZerosInOnLine(arr) {
 }
 
 console.log(moveZerosInOnLine(arr));
-
-// function areYouPlayingBanjo(name) {
-//     // Implement me
-//     return name.toLowerCase().toStartsWith('r') ? `${name} plays banjo` : `${name} does not play banjo`;
-// }
-
-let name = 'Ibrahim'
-
-console.log(name.toLowerCase().startsWith('r') ? `${name} plays banjo` : `${name} does not play banjo`);
